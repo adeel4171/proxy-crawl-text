@@ -1,0 +1,2 @@
+module AmazonLinksHelper
+end
